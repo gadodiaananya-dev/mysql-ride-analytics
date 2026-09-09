@@ -1,4 +1,5 @@
-🚖 Urban Mobility Analytics (SQL Project)
+🚖 **Urban Mobility Analytics (SQL Project)**
+
 MySQL project analyzing ride-hailing data: revenue, city trends, driver performance & payment patterns.
 This project explores an urban mobility (ride-hailing) database using 25 SQL queries across 8 interconnected tables, transforming raw operational data into actionable business insights.
 
